@@ -7,6 +7,7 @@ Los tipos de naftas junto con sus tarifas por litro son:
 - Normal: $17.20
 - Súper: $18.85
 - Premium: $21.30
+
 **Desarrollar una aplicación Orientada a Objetos utilizando VB.Net o C# que permita:**
 1) Obtener la recaudación total de la estación de servicio.
 2) Obtener la recaudación total de un surtidor.

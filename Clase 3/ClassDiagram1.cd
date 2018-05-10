@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Clase_3.EstaciondeServicio">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQgAGAgIwBEIAAAgABAACAoAAAAIAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>EstaciondeServicio.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Super" />
+      <Property Name="Premium" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Clase_3.Nafta">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAEBAAARAAAgEAAAJAAAEAQAAAA=</HashCode>
+      <FileName>Nafta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clase_3.Surtidor">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAgAQEAIAMBAAAAAAAgAAAAIAAAAQAAAIE=</HashCode>
+      <FileName>Surtidor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Nafta" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
